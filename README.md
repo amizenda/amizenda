@@ -136,10 +136,6 @@ Open to:
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=amizenda&theme=matrix&no-frame=true&column=4&row=1&margin-w=8" alt="" />
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amizenda&bg_color=00000000&color=39d353&line=39d353&point=7ee787&area=true&hide_border=true" width="100%" alt="" />
 
 <img src="https://raw.githubusercontent.com/amizenda/amizenda/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
