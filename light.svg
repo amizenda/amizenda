@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="540" viewBox="0 0 900 540" font-family="monospace" role="img" aria-label="Zenda - Backend Developer profile card">
+<defs>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="0.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<radialGradient id="vig" cx="30%" cy="35%" r="80%"><stop offset="0%" stop-color="#2ea043" stop-opacity="0.10"/><stop offset="70%" stop-color="#2ea043" stop-opacity="0"/></radialGradient>
+<clipPath id="winclip"><rect x="14" y="14" width="872" height="512" rx="14"/></clipPath>
+<style>
+  text{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,Consolas,'Courier New',monospace;font-weight:500;}
+  .rev{opacity:0;animation:rev .55s ease-out forwards;}
+  @keyframes rev{from{opacity:0;}to{opacity:1;}}
+  .cur{fill:#147a2e;animation:blink 1.05s steps(1) infinite;}
+  @keyframes blink{0%,50%{opacity:1;}51%,100%{opacity:0;}}
+</style>
+</defs>
+<rect width="900" height="540" fill="#eef3ee"/>
+<rect x="14" y="14" width="872" height="512" rx="14" fill="#ffffff" stroke="#bfe0c6" stroke-width="1.5"/>
+<g clip-path="url(#winclip)">
+<rect x="14" y="14" width="872" height="512" fill="url(#vig)"/>
+<line x1="14" y1="60" x2="886" y2="60" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="86" x2="886" y2="86" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="112" x2="886" y2="112" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="138" x2="886" y2="138" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="164" x2="886" y2="164" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="190" x2="886" y2="190" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="216" x2="886" y2="216" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="242" x2="886" y2="242" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="268" x2="886" y2="268" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="294" x2="886" y2="294" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="320" x2="886" y2="320" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="346" x2="886" y2="346" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="372" x2="886" y2="372" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="398" x2="886" y2="398" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="424" x2="886" y2="424" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="450" x2="886" y2="450" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="476" x2="886" y2="476" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<line x1="14" y1="502" x2="886" y2="502" stroke="#e2efe4" stroke-width="1" opacity="0.5"/>
+<g><rect x="14" y="60" width="872" height="2.5" fill="#2ea043" opacity="0.28" filter="url(#glow)"><animate attributeName="opacity" values="0.05;0.30;0.05" dur="4.2s" repeatCount="indefinite"/></rect><animateTransform attributeName="transform" type="translate" from="0 0" to="0 464" dur="4.2s" repeatCount="indefinite"/></g>
+</g>
+<circle cx="38" cy="36" r="5.5" fill="#ff5f56"/>
+<circle cx="58" cy="36" r="5.5" fill="#ffbd2e"/>
+<circle cx="78" cy="36" r="5.5" fill="#27c93f"/>
+<text x="450.0" y="40" text-anchor="middle" font-size="12.5" fill="#1a7f37" letter-spacing="1.5" opacity="0.85">zenda@devos — ~/profile</text>
+<line x1="24" y1="54" x2="876" y2="54" stroke="#bfe0c6" stroke-width="1"/>
+<text x="44" y="86" font-size="13.5" xml:space="preserve" class="rev" style="animation-delay:.05s"><tspan fill="#147a2e">zenda@devos ~ % ./profile.sh --live</tspan><tspan class="cur" font-weight="700"> █</tspan></text>
+<text x="44" y="112" font-size="11.5" fill="#2ea043" letter-spacing="1.5" class="rev" style="animation-delay:.1s">» VISUAL.ID ─────────</text>
+<text class="rev" style="animation-delay:.15s" font-size="11.0" fill="#1a7f37" xml:space="preserve" filter="url(#glow)" letter-spacing="0"><tspan x="44" y="128">                  .:cS#%%%%sc*:.</tspan><tspan x="44" dy="12.5">                :*#@@@@@@@@@@@@#a-.</tspan><tspan x="44" dy="12.5">              -a@@@@@@@@@@@@@@@@@@S=`</tspan><tspan x="44" dy="12.5">            &#x27;s@@@@@@@@@@@@@@@@@@@@@@%=</tspan><tspan x="44" dy="12.5">           ;%@@@@@@@@@#S%@@@@%@@@@@@@@s`</tspan><tspan x="44" dy="12.5">          ,@@@@@@@@%#%Sa#%###a%@@@@@@@@a</tspan><tspan x="44" dy="12.5">          -@@@@@@@#Ss*+++cc+c+a#%%%@@@@#</tspan><tspan x="44" dy="12.5">          ,@%%%Sasc~~;,,,:::--~++csaS#@c</tspan><tspan x="44" dy="12.5">           c#ss+~;:,:::,&#x27;`,::,&#x27;&#x27;,:-==*%-</tspan><tspan x="44" dy="12.5">           `a+~;;--=~:::&#x27;&#x27;:,,;*~-;:;-**</tspan><tspan x="44" dy="12.5">           .~=;:;-;-;::;:,::::;::;:;-+;,.</tspan><tspan x="44" dy="12.5">          .--~-;:,,&#x27;&#x27;,:;:,::,,&#x27;,,,:;-~;-`</tspan><tspan x="44" dy="12.5">           :;--;:,,,,,;;:,:;:,&#x27;,,,:;~-:;</tspan><tspan x="44" dy="12.5">           &#x27;;;-;::,,,,;;:,;;;,&#x27;,,::-~--&#x27;</tspan><tspan x="44" dy="12.5">            ,---;:,,,,:;::,::,,,::;-;:,</tspan><tspan x="44" dy="12.5">             `&#x27;;;;:,,::;;:::,,,:::;;</tspan><tspan x="44" dy="12.5">               `;;:::;~=====~;::;;-`</tspan><tspan x="44" dy="12.5">                `-;:::;;;;;;:::;-~`</tspan><tspan x="44" dy="12.5">                 -~-;::,,,&#x27;,,:;-~~`</tspan><tspan x="44" dy="12.5">                .----;;::,::;;---~:`</tspan><tspan x="44" dy="12.5">              .&#x27;,~;;;;;;;;;;---;;~:&#x27;,`.</tspan><tspan x="44" dy="12.5">           ..`,&#x27;:+;;:;;;;;;;;;;;;-~.::`.</tspan><tspan x="44" dy="12.5">        .`` .&#x27;&#x27;.,c-;:::;;::;;;:;;-+.,:&#x27;.</tspan><tspan x="44" dy="12.5">    ..`&#x27;,&#x27; ``.`  ==;;;:::;;;;:;;;-~.&#x27;,,,`</tspan><tspan x="44" dy="12.5">...    ..  `     `~-;:::::::::::;-: `,,&#x27;.</tspan><tspan x="44" dy="12.5">                 `:,,:,,,,,,,,:::,,&#x27;```.</tspan><tspan x="44" dy="12.5">               .,,&#x27;, .,,,,,,,,&#x27;`&#x27;&#x27;,&#x27;`</tspan><tspan x="44" dy="12.5">          .   ``   `&#x27;  `:,::&#x27;  `..   .</tspan><tspan x="44" dy="12.5">            ..          &#x27;;:</tspan><tspan x="44" dy="12.5">                         ``</tspan><tspan x="44" dy="12.5"> </tspan></text>
+<text x="452" y="114.0" class="rev" style="animation-delay:0.35s" xml:space="preserve" font-size="12.5" fill="#2ea043" letter-spacing="0.5">── SYSTEM.INFO ───────────────────────────────</text>
+<text x="452" y="132.0" class="rev" style="animation-delay:0.40s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">SUBJECT</tspan><tspan fill="#bfe0c6"> ....</tspan><tspan fill="#0f3d1c"> Nguyen Trung Nam (Zenda)</tspan></text>
+<text x="452" y="150.0" class="rev" style="animation-delay:0.45s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">ROLE</tspan><tspan fill="#bfe0c6"> .......</tspan><tspan fill="#0f3d1c"> Backend Developer · .NET</tspan></text>
+<text x="452" y="168.0" class="rev" style="animation-delay:0.50s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">ORIGIN</tspan><tspan fill="#bfe0c6"> .....</tspan><tspan fill="#0f3d1c"> Ho Chi Minh City, VN</tspan></text>
+<text x="452" y="186.0" class="rev" style="animation-delay:0.55s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">EDUCATION</tspan><tspan fill="#bfe0c6"> ..</tspan><tspan fill="#0f3d1c"> B.Eng SE · FPT University</tspan></text>
+<text x="452" y="204.0" class="rev" style="animation-delay:0.60s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">STATUS</tspan><tspan fill="#bfe0c6"> .....</tspan><tspan fill="#0f3d1c"> Building • Learning • Shipping</tspan></text>
+<text x="452" y="222.0" class="rev" style="animation-delay:0.65s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">TOOLCHAIN</tspan><tspan fill="#bfe0c6"> ..</tspan><tspan fill="#0f3d1c"> VS Code, Git, Docker, Swagger</tspan></text>
+<text x="452" y="258.0" class="rev" style="animation-delay:0.75s" xml:space="preserve" font-size="12.5" fill="#2ea043" letter-spacing="0.5">── CORE ──────────────────────────────────────</text>
+<text x="452" y="276.0" class="rev" style="animation-delay:0.80s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">LANG</tspan><tspan fill="#bfe0c6"> .......</tspan><tspan fill="#0f3d1c"> C#, C++, JavaScript, TS</tspan></text>
+<text x="452" y="294.0" class="rev" style="animation-delay:0.85s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">FRONTEND</tspan><tspan fill="#bfe0c6"> ...</tspan><tspan fill="#0f3d1c"> React, Tailwind, HTML/CSS</tspan></text>
+<text x="452" y="312.0" class="rev" style="animation-delay:0.90s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">BACKEND</tspan><tspan fill="#bfe0c6"> ....</tspan><tspan fill="#0f3d1c"> ASP.NET Core, EF Core, REST</tspan></text>
+<text x="452" y="330.0" class="rev" style="animation-delay:0.95s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">DATABASE</tspan><tspan fill="#bfe0c6"> ...</tspan><tspan fill="#0f3d1c"> SQL Server, Azure SQL</tspan></text>
+<text x="452" y="348.0" class="rev" style="animation-delay:1.00s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">INFRA</tspan><tspan fill="#bfe0c6"> ......</tspan><tspan fill="#0f3d1c"> Docker, JWT/RBAC, Clean Arch</tspan></text>
+<text x="452" y="384.0" class="rev" style="animation-delay:1.10s" xml:space="preserve" font-size="12.5" fill="#2ea043" letter-spacing="0.5">── CONTACT ───────────────────────────────────</text>
+<text x="452" y="402.0" class="rev" style="animation-delay:1.15s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">MAIL</tspan><tspan fill="#bfe0c6"> .......</tspan><tspan fill="#0f3d1c"> nguyentrungnam01n@gmail.com</tspan></text>
+<text x="452" y="420.0" class="rev" style="animation-delay:1.20s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">PORTFOLIO</tspan><tspan fill="#bfe0c6"> ..</tspan><tspan fill="#0f3d1c"> amizenda.vercel.app</tspan></text>
+<text x="452" y="438.0" class="rev" style="animation-delay:1.25s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">LINKEDIN</tspan><tspan fill="#bfe0c6"> ...</tspan><tspan fill="#0f3d1c"> in/amizenda</tspan></text>
+<text x="452" y="456.0" class="rev" style="animation-delay:1.30s" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f37">GITHUB</tspan><tspan fill="#bfe0c6"> .....</tspan><tspan fill="#0f3d1c"> amizenda</tspan></text>
+<text x="452" y="492.0" class="rev" style="animation-delay:1.40s" xml:space="preserve" font-size="11.5" fill="#3f8a52" font-style="italic">// live telemetry rendered below ↓</text>
+<path d="M 24 74 L 24 64 L 36 64" fill="none" stroke="#2ea043" stroke-width="1.5" opacity="0.7"/>
+<path d="M 876 74 L 876 64 L 864 64" fill="none" stroke="#2ea043" stroke-width="1.5" opacity="0.7"/>
+<path d="M 24 510 L 24 520 L 36 520" fill="none" stroke="#2ea043" stroke-width="1.5" opacity="0.7"/>
+<path d="M 876 510 L 876 520 L 864 520" fill="none" stroke="#2ea043" stroke-width="1.5" opacity="0.7"/>
+</svg>
