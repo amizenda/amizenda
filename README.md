@@ -129,10 +129,10 @@ Open to:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amizenda&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=00000000&border_radius=0" alt="" />
-<img height="165" src="https://streak-stats.demolab.com?user=amizenda&hide_border=true&background=00000000&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=0" alt="" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amizenda&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_radius=0" alt="" />
+<img height="165" src="https://streak-stats.demolab.com?user=amizenda&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=0" alt="" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amizenda&layout=compact&hide_border=true&langs_count=8&title_color=39d353&text_color=c9d1d9&bg_color=00000000&border_radius=0" alt="" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amizenda&layout=compact&hide_border=true&langs_count=8&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_radius=0" alt="" />
 
 <br><br>
 
